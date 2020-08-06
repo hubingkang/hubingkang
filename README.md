@@ -14,7 +14,7 @@ Hi, I'm [Hu Bingkang](https://www.hubingkang.com), a frontEnd web developer.
 
 <!-- 卡片参考： https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md -->
 <div>
-    <a href="https://github.com/hubingkang/github-readme-stats">
+    <a href="https://github.com/hubingkang">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=hubingkang&show_icons=true&include_all_commits=true&theme=radical" />
     </a>
 </div>
